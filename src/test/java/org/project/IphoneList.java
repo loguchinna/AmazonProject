@@ -10,6 +10,7 @@ public class IphoneList extends BaseClass {
 	{
 		System.out.println("Iphone List......");
 		urlLaunch("https://www.amazon.in/");
+		System.out.println("new branch logu");
 		
 	}
 }
